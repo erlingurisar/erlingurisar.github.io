@@ -1,0 +1,18 @@
+body {
+font-family: sans-serif;
+border: 2px solid blue ;
+max-width: 50em;
+margin:2em auto;  /*2em= top+bottom og auto = L+R jafnað */
+padding: 2em;
+}
+h1 {
+    color: red;
+}
+.poem {
+    font-style: italic;
+    margin-left:3em;
+}
+.Elvis em,
+.Elvis sub{
+    color:green; 
+}
